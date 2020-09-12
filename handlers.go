@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Luqqk/goexrates/models"
+	"github.com/KARTHICK13691/go-currency/models"
 	"github.com/gorilla/mux"
 	"github.com/shopspring/decimal"
 )
