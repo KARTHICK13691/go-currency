@@ -7,6 +7,11 @@ Authentication = JWT
 Framework = gorilla mux
 
 
+### **Run**
+
+```bash
+go run go-currency.go
+```
 
 
 
