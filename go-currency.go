@@ -7,7 +7,7 @@ import (
 	"github.com/KARTICK13691/go-currency/handlers"
 	"github.com/KARTICK13691/go-currency/middlewares"
 	"github.com/KARTICK13691/go-currency/models"
-	"github.com/go-currency/mux"
+	"github.com/gorilla/mux"
 )
 
 func main() {
